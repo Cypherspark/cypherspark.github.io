@@ -1,30 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: SNAPP!
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: As a Software Engineer at Snapp, I played an integral role in the Map Platform team, owning and maintaining critical databases to en[2]vailability and performance. My tenure involved streamlining infrastructure components, including API gateways and central logging systems, to enhance system reliability. I led the migration to a cloud-native gateway system, resulting in a performance uplift of 120% and expanded community engagement. My management of Elastic search data allocation across multiple teams ensured resource efficiency by implementing hot-warm-cold phases for effective data sharing and service level optimization.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Aug. 2022
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Senior Software Developer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Porsline
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: During my tenure as a Software Engineer at Porsline, I contributed to the design of an asyncio-based microframework. This framework streamlined the delivery of asynchronous notifications and webhook requests, integrated seamlessly with Django and RabbitMQ, and was developed with comprehensive test-driven development (TDD) practices, emphasizing reliability and maintainable code.
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2020 - Aug. 2022
+    i18n: company_b_date
+  job:
+    detail: Software engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: NEUROBI
+    i18n: company_b
+  desc:
+    detail: As part of the NEUROBI team from January 2019 to May 2020, I, along with a group of six talented peers, developed sophisticated pharmacy assistant software. This tool is an amalgamation of advanced artificial intelligence technologies designed to proactively assess and predict the demand for medications. Our diverse expertise contributed to crafting a predictive model capable of navigating the complexities of pharmaceutical supplies' forecasting, providing vital assistance for the days and months ahead.
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2019 - May. 2020
+    i18n: company_b_date
+  job:
+    detail: Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Medric
+    i18n: company_b
+  desc:
+    detail: In my role as a Backend Developer at Medric Studio, I engineered and sustained an online Android game's backend using Django. My work entailed integrating real-time chat functionalities and enhancing the user interface with responsive WebSockets and Django Channels. This position sharpened my skills in creating engaging, interactive online experiences for the gaming community.
     i18n: company_b_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software engineer
     i18n: company_b_job
   icon: fa-plus-square
