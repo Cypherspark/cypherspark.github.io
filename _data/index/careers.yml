@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: SNAPP!
+    detail: <a href="https://www.linkedin.com/company/snapp.ir/">SNAPP!</a>
     i18n: company_a
   desc:
     detail: As a Software Engineer at Snapp, I played an integral role in the Map Platform team, owning and maintaining critical databases to en[2]vailability and performance. My tenure involved streamlining infrastructure components, including API gateways and central logging systems, to enhance system reliability. I led the migration to a cloud-native gateway system, resulting in a performance uplift of 120% and expanded community engagement. My management of Elastic search data allocation across multiple teams ensured resource efficiency by implementing hot-warm-cold phases for effective data sharing and service level optimization.
@@ -16,7 +16,7 @@
   present: true
 
 - name:
-    detail: Porsline
+    detail: <a href="https://porsline.com">Porsline</a>
     i18n: company_b
   desc:
     detail: During my tenure as a Software Engineer at Porsline, I contributed to the design of an asyncio-based microframework. This framework streamlined the delivery of asynchronous notifications and webhook requests, integrated seamlessly with Django and RabbitMQ, and was developed with comprehensive test-driven development (TDD) practices, emphasizing reliability and maintainable code.
@@ -30,7 +30,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: NEUROBI
+    detail: <a href="https://ir.linkedin.com/company/neurobi">NEUROBI</a>
     i18n: company_b
   desc:
     detail: As part of the NEUROBI team from January 2019 to May 2020, I, along with a group of six talented peers, developed sophisticated pharmacy assistant software. This tool is an amalgamation of advanced artificial intelligence technologies designed to proactively assess and predict the demand for medications. Our diverse expertise contributed to crafting a predictive model capable of navigating the complexities of pharmaceutical supplies' forecasting, providing vital assistance for the days and months ahead.
@@ -44,7 +44,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Medric
+    detail: <a href="https://www.linkedin.com/company/medrick-fze/">Medric</a>
     i18n: company_b
   desc:
     detail: In my role as a Backend Developer at Medric Studio, I engineered and sustained an online Android game's backend using Django. My work entailed integrating real-time chat functionalities and enhancing the user interface with responsive WebSockets and Django Channels. This position sharpened my skills in creating engaging, interactive online experiences for the gaming community.
