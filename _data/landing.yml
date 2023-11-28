@@ -35,7 +35,7 @@
   i18n: nav.cv
   name: CV
   tpl: cv.pdf
-  page: cv/
+  page: cv.pdf
   css:
 
 
