@@ -31,11 +31,11 @@
   page: blog/
   css: testimonials navy-section
 
-- id: cv
-  i18n: nav.cv
-  name: CV
-  tpl: cv.pdf
-  page: cv/
+# - id: cv
+#   i18n: nav.cv
+#   name: CV
+#   tpl: cv.pdf
+#   page: cv/
 
 
 - id: links
