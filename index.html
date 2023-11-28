@@ -49,7 +49,7 @@ permalink: /
 {% assign loopindex = forloop.index | modulo: 2 %}
 <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
   {% if section.id == 'cv' %}
-    <a href="{{ section.link.tpl }}">{{ section.link.name }}</a>
+    <a href="{{ sections/{{ section.tpl }} }}">{{ section.name }}</a>
   {% else %}
     {% include sections/{{ section.tpl }} %}
   {% endif %}
