@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C, Golang, Python, Database, System Design, Network, Algorithm
-percentage: 60, 90, 90, 100, 70, 90, 80
+aspects: Compilers, Golang, Python, Database, System Design, Network, Algorithm
+percentage: 80, 90, 90, 100, 70, 90, 80
